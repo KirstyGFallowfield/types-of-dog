@@ -7,3 +7,6 @@
 - golden retriever
 - shi tzu 
 - japanese chin
+
+- greyhound
+- pomeranian 
